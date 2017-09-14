@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" Style="Background-color: #CCCCCC; Color: black;">
+<head>
+<title>Mrs. Brown's Second Grade</title>
+<meta charset="utf-8">
+</head>
+
+<body>
+ 
+<h1 style="text-align:center;">Erica Brown's Basic Webpage</h1>
+
+<p>This webpage is going to be used as a classroom webpage for students and parents in my classroom to utilize both at school and at home.</p>
+
+<h2>Topic 1</h2>
+
+<p><i><u>Classroom Webpage</u></i></p>
+
+<p>I am planning on creating a classroom webpage for parents to utilize for grades, online games, etc.</p>
+
+<p> Here are a list of items that will be included on my webpage</p>
+
+<!--list items -->
+
+<ul>
+<li>Student Information Systems</li>
+<li>Accelerated Reader</li>
+<li>Prodigy</li>
+</ul>
+
+ <p>For more about our school district go to <a href="http://osageschools.org">Osage Schools</a></p>
+ 
+ <Blockquote><i><b>OSAGE STRONG</b></i></Blockquote>
+
+<br>
+
+<h2>Topic 2</h2>
+
+<p><i><u>Falcon Hills Association</u></i></p>
+
+<p>This page is for a subdivision association.  This page will provide members of the association to see what's going on in the subdivision.
+
+
+<!--list items -->
+
+<ul>
+<li>Associate Dues</li>
+<li>Upcoming Events</li>
+<li>Real Estate</li>
+</ul>
+
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+<footer>
+ <small>Contact <a href="mailto:browne@osageschools.org?Subject=BasicWebPageQuestion">Erica Brown</a><br>Date Created<i>September 14, 2017</i><br>
+  
+  <cite>All material in this site is original and created by the stie owner, Erica Brown.  Any futher use of this material is prohibited without permission from the site owner. </cite><br></small>
+  </footer>
+
+</body>
+</html>
